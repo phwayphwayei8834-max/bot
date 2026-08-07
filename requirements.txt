@@ -1,2 +1,5 @@
-pyTelegramBotAPI==4.26.0
-gunicorn==23.0.0
+pyTelegramBotAPI
+aiohttp
+opencv-python-headless
+numpy
+ddddocr
